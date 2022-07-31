@@ -3,6 +3,7 @@
   "short_name": "Budget",
   "orientation": "landscape",
   "display": "standalone",
+  "start_url": "/",
   "icons": [
     {
       "src": "auto/icons/icon-72x72.png",
