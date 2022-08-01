@@ -8,7 +8,7 @@ request.onupgradeneeded = function(event) {
   db.createObjectStore('budget_tracker', { autoIncrement: true });
 };
 
-request.onsuccess = functione(event) {
+request.onsuccess = function(event) {
   db = event.target.result;
 
   if (navigator.online) {
