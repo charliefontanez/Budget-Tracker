@@ -4,7 +4,7 @@
 
 ## Link to live page
 
-https://hidden-basin-10279.herokuapp.com/
+https://budget-tracker-10279.herokuapp.com/
 
 
-![image](./private/images/budget-tracker.png);
+![image](./private/images/budget-tracker.png)
